@@ -1,0 +1,89 @@
+                   1         2         3         4         5         6         7
+Seq.    0 MANDSPAKSLVDIDLSSLRDPAGIFELVEVVGNGTYGQVYKGRHVKTGQLAAIKVMDVTEDEEEEIKLEI
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   8         9         0         1         2         3         4
+Seq.   70 NMLKKYSHHRNIATYYGAFIKKSPPGHDDQLWLVMEFCGAGSITDLVKNTKGNTLKEDWIAYISREILRG
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   5         6         7         8         9         0         1
+Seq.  140 LAHLHIHHVIHRDIKGQNVLLTENAEVKLVDFGVSAQLDRTVGRRNTFIGTPYWMAPEVIACDENPDATY
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   2         3         4         5         6         7         8
+Seq.  210 DYRSDLWSCGITAIEMAEGAPPLCDMHPMRALFLIPRNPPPRLKSKKWSKKFFSFIEGCLVKNYMQRPST
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   9         0         1         2         3         4         5
+Seq.  280 EQLLKHPFIRDQPNERQVRIQLKDHIDRTRKKRGEKDETEYEYSGSEEEEEEVPEQEGEPSSIVNVPGES
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   6         7         8         9         0         1         2
+Seq.  350 TLRRDFLRLQQENKERSEALRRQQLLQEQQLREQEEYKRQLLAERQKRIEQQKEQRRRLEEQQRREREAR
+Coil      .............efgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcde
+Heptad    ________________|______|______|______|______|______|______|______|____
+
+                   3         4         5         6         7         8         9
+Seq.  420 RQQEREQRRREQEEKRRLEELERRRKEEEERRRAEEEKRRVEREQEYIRRQLEEEQRHLEVLQQQLLQEQ
+Coil      fgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcde
+Heptad    __|______|______|______|______|______|______|______|______|______|____
+
+                   0         1         2         3         4         5         6
+Seq.  490 AMLLECRWREMEEHRQAERLQRQLQQEQAYLLSLQHDHRRPHPQHSQQPPPPQQERSKPSFHAPEPKAHY
+Coil      fgabcdefgabcdefgabcdefgabcde..........................................
+Heptad    __|______|______|______|______________________________________________
+
+                   7         8         9         0         1         2         3
+Seq.  560 EPADRAREVEDRFRKTNHSSPEAQSKQTGRVLEPPVPSRSESFSNGNSESVHPALQRPAEPQVPVRTTSR
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   4         5         6         7         8         9         0
+Seq.  630 SPVLSRRDSPLQGSGQQNSQAGQRNSTSIEPRLLWERVEKLVPRPGSGSSSGSSNSGSQPGSHPGSQSGS
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   1         2         3         4         5         6         7
+Seq.  700 GERFRVRSSSKSEGSPSQRLENAVKKPEDKKEVFRPLKPADLTALAKELRAVEDVRPPHKVTDYSSSSEE
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   8         9         0         1         2         3         4
+Seq.  770 SGTTDEEDDDVEQEGADESTSGPEDTRAASSLNLSNGETESVKTMIVHDDVESEPAMTPSKEGTLIVRQT
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   5         6         7         8         9         0         1
+Seq.  840 QSASSTLQKHKSSSSFTPFIDPRLLQISPSSGTTVTSVVGFSCDGMRPEAIRQDPTRKGSVVNVNPTNTR
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   2         3         4         5         6         7         8
+Seq.  910 PQSDTPEIRKYKKRFNSEILCAALWGVNLLVGTESGLMLLDRSGQGKVYPLINRRRFQQMDVLEGLNVLV
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   9         0         1         2         3         4         5
+Seq.  980 TISGKKDKLRVYYLSWLRNKILHNDPEVEKKQGWTTVGDLEGCVHYKVVKYERIKFLVIALKSSVEVYAW
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   6         7         8         9         0         1         2
+Seq. 1050 APKPYHKFMAFKSFGELVHKPLLVDLTVEEGQRLKVIYGSCAGFHAVDVDSGSVYDIYLPTHIQCSIKPH
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   3         4         5         6         7         8         9
+Seq. 1120 AIIILPNTDGMELLVCYEDEGVYVNTYGRITKDVVLQWGEMPTSVAYIRSNQTMGWGEKAIEIRSVETGH
+Coil      ......................................................................
+Heptad    ______________________________________________________________________
+
+                   0         1         2         3         4
+Seq. 1169 LDGVFMHKRAQRLKFLCERNDKVFFASVRSGGSSQVYFMTLGRTSLLSW
+Coil      .................................................
+Heptad    _________________________________________________
