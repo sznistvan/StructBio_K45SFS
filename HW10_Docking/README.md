@@ -14,3 +14,7 @@
 [PyDockWeb WITH restraints](https://life.bsc.es/pid/pydockweb/jobs/get_info/23401)
 
 [Results file](https://github.com/sznistvan/StructBio_K45SFS/blob/main/HW10_Docking/project23401_restraints.tgz)
+
+
+
+**Szepesi-Nagy István (K45SFS)**
